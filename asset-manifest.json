@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dariyapl/movie-app.git/static/css/main.4d0b919a.css",
+    "main.js": "/dariyapl/movie-app.git/static/js/main.01f9efab.js",
+    "index.html": "/dariyapl/movie-app.git/index.html",
+    "main.4d0b919a.css.map": "/dariyapl/movie-app.git/static/css/main.4d0b919a.css.map",
+    "main.01f9efab.js.map": "/dariyapl/movie-app.git/static/js/main.01f9efab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0b919a.css",
+    "static/js/main.01f9efab.js"
+  ]
+}
